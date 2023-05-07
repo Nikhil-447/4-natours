@@ -37,7 +37,9 @@ res.status(200).json({
 })
 })
 //Route for passing ID in request URL
-app.get('/api/v1/tours/:id', (req, res) =>{
+app.get('/api/v1/tours/:id/:x/:y?', (req, res) =>{
+
+  
   console.log(req.params);
   res.status(200).json({
     status:'Success',
