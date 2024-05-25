@@ -1,0 +1,14 @@
+/.prettierrc
+/after-section-06
+/after-section-08
+/after-section-09
+/after-section-10
+/after-section-11
+/after-section-12
+/after-section-13
+/after-section-14
+/node_modules
+/package-lock.json
+/package.json
+/starter
+/config.env
