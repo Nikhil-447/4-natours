@@ -1,0 +1,5 @@
+first versional of web app includes...
+user auth, db schemas, db modelling, middleware, email, file upload
+controllers, models, routes, utils ,error handlers,
+
+Excludes payments integration and views/server side rendering using pug templates
